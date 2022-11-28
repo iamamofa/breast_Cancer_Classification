@@ -47,13 +47,14 @@ dataset train
 
 ## Environment and tools
 
-1. Jupyter Notebook
+1. Jupyter Notebook/VisualStudio Not Book
 2. Numpy
 3. Pandas
 4. Scikit-image
 5. Matplotlib
 6. Scikit-learn
 7. Keras
+
 
 ## Installation
 
