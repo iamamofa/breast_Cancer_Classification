@@ -91,3 +91,20 @@ dataset train
 
 The model is able to reach a validation accuracy of 98.3%, precision 0.65, recall 0.95, f1 score of 0.77 and ROC-AUC as 0.692.
 
+
+
+
+
+
+## Support
+
+If you want to support the development of this app, feel free to [sponsor](https://ko-fi.com/justiceoheneamofa) me or [buy me a coffee](https://ko-fi.com/justiceoheneamofa).
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justiceoheneamofa)
+
+## Copyright
+
+This project has no license. That means you are not allowed to sell or distribute this app.
+All rights reserved.
+© 2023 Justice O. Amofa
+
